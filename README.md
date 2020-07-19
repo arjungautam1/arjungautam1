@@ -47,8 +47,8 @@ Hi, I'm Arjun Gautam , a passionate self taught full stack developer from Nepal 
 <code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/git.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linux.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/intellij.jpeg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/eclipse.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/ubuntupng.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/eclipse.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/ubuntupostman.png"></code>
 
 
 
