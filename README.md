@@ -19,6 +19,8 @@
 <br />
 <br />
 
+Hi, I'm Arjun Gautam , a passionate self taught full stack developer from Nepal 🇳🇵. 
+
 - 🔭 I’m currently working on [github] (https://github.com/arjun-sudo/StudentManagementSystem) 
 - 🌱 I’m currently learning React, Spring Boot ,Typescript
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
