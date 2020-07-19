@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/arjun-gautam-laser" target="_blank">
-  <img align="left" alt="Arjun | LinkedIn" width="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.png" />
+  <img align="left" alt="Arjun | LinkedIn" width="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.jpg" />
 </a>
 
 
