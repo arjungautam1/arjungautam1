@@ -1,17 +1,19 @@
 ### Hi there , I'm [Arjun !](https://arjun-gautam.netlify.com)👋
 
 
-<a href="https://twitter.com/Laserarjun876" target="_blank">
-  <img align="left" alt="Arjun | Twitter" width="27px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.png" />
-</a>
-
 
 <a href="https://www.linkedin.com/in/arjun-gautam-laser" target="_blank">
-  <img align="left" alt="Arjun | LinkedIn" width="30px" height="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.jpg" />
+  <img align="left" alt="Arjun | LinkedIn" width="30px" height="27px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.jpg" />
 </a>
 
+<a href="https://twitter.com/Laserarjun876" target="_blank">
+  <img align="left" alt="Arjun | Twitter" width="28px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.png" />
+</a>
+
+
+
 <a href="https://www.facebook.com/people/Arjun-Gautam/100010140661075" target="_blank">
-  <img align="left" alt="Arjun | facebook" width="30px" height="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/fb.png" />
+  <img align="left" alt="Arjun | facebook" width="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/fb.png" />
 </a>
 
 <br/>
@@ -28,5 +30,6 @@
 
 
 **Languages and Tools:**  
+
 
 
