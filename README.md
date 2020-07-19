@@ -16,14 +16,14 @@
   <img align="left" alt="Arjun | facebook" width="25px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/fb.png" />
 </a>
 
-<br/>
-<br/>
-- 🔭 I’m currently working on [github] (https://github.com/arjun-sudo/StudentManagementSystem)
-- 🌱 I’m currently learning React, Spring Boot ,Typescript
+<br />
+<br />
+- 🔭 I’m currently working on [github] (https://github.com/arjun-sudo/StudentManagementSystem) <br>
+- 🌱 I’m currently learning React, Spring Boot ,Typescript<br>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues)
-- 📫 How to reach me: laserarjun@gmail.com
+- 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) <br>
+- 📫 How to reach me: laserarjun@gmail.com<br>
 - 😄 Pronouns: Laserarjun
 <!-- - ⚡ Fun fact: ...-->
 
