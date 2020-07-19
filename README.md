@@ -35,6 +35,23 @@ Hi, I'm Arjun Gautam , a passionate self taught full stack developer from Nepal 
 **Languages and Tools:**  
 
 
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/spring.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/java.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/js.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/html.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/python.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/mysql.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/git.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linux.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/intellij.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/postman.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/postman.png"></code>
+
+
+
+
 
 
 
