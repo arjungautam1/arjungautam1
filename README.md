@@ -25,10 +25,12 @@ Hi, I'm Arjun Gautam , a passionate self taught full stack developer from Nepal 
 - 🌱 I’m currently learning React, Spring Boot ,Typescript
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
 - 📫 How to reach me: laserarjun@gmail.com
-- 😄 Pronouns: Laserarjun
+
 
 <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: Laserarjun
+-->
 <!-- - ⚡ Fun fact: ...-->
 
 
