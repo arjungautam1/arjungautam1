@@ -25,7 +25,7 @@ A passionate self taught full stack developer from Nepal .
 -->
 <!-- - ⚡ Fun fact: ...-->
 
-
+<br>
 **Languages and Tools:**  
 
 
