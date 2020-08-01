@@ -41,9 +41,6 @@ A passionate self taught full stack developer from Nepal .
 <code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linux.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/intellij.jpeg"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
 <a href="https://github.com/arjun-sudo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
