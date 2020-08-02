@@ -27,11 +27,12 @@ A passionate self taught full stack developer from Nepal .
 <br>
 <br>
 
-<!-- - 👯 I’m looking to collaborate on ...
+<!-- 
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: Laserarjun
+- ⚡ Fun fact: ... 
 -->
-<!-- - ⚡ Fun fact: ...-->
 
 
 
