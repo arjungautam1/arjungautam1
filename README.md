@@ -2,8 +2,8 @@
 
 A passionate self taught full stack developer from Nepal .
 
-- 🔭 I’m currently working something cool 
-- 🌱 I’m currently learning React, Spring Boot ,Typescript
+- 🔭 I’m currently working something cool .
+- 🌱 I’m currently learning React, Spring Boot ,Typescript .
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
 - 📫 How to reach me: laserarjun@gmail.com
 
