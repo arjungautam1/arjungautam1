@@ -2,7 +2,7 @@
 
 A passionate self taught full stack developer from Nepal .
 
-- 🔭 I’m currently working something cool .
+- 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning React, Spring Boot ,Typescript .
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
 - 📫 How to reach me: laserarjun@gmail.com
@@ -23,9 +23,6 @@ A passionate self taught full stack developer from Nepal .
 </a>
 <a href="https://www.facebook.com/people/Arjun-Gautam/100010140661075" target="_blank">
   <img align="left" alt="Arjun | facebook" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/facebook.png" />
-</a>
-<a href="https://www.instagram.com/laserarjun/" target="_blank">
-  <img align="left" alt="Arjun | instagram" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/insta.jpeg" />
 </a>
 <br>
 <br>
