@@ -10,7 +10,7 @@ A passionate self taught full stack developer from Nepal .
 **Connect with me :**
 
 <a href="https://www.linkedin.com/in/arjun-gautam-laser" target="_blank">
-  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/link.jpg" />
+  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Laserarjun876" target="_blank">
   <img align="left" alt="Arjun | Twitter" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.webp" />
@@ -18,9 +18,11 @@ A passionate self taught full stack developer from Nepal .
 <a href="https://medium.com/@laserarjun" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/medium.png" />
 </a>
+<!--
 <a href="https://dev.to/arjunsudo">
   <img align="left" alt="Arjun | Dev" width="45px" height="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arjun Gautam's DEV Profile"  >
 </a>
+-->
 <a href="https://www.facebook.com/people/Arjun-Gautam/100010140661075" target="_blank">
   <img align="left" alt="Arjun | facebook" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/facebook.svg" />
 </a>
