@@ -57,7 +57,6 @@ A passionate self taught full stack developer from Nepal .
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=radical" alt="Arjun's github stats" />
   
 <a href="https://github.com/arjun-sudo/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-sudo&layout=compact&theme=radical" />
 </a>
 </a>
