@@ -1,4 +1,4 @@
-### Hi there , I'm [Arjun Gautam !](https://arjung.netlify.com)👋
+### Hi there , I'm [Arjun Gautam !](https://arjungautam.netlify.com)👋
 
 A passionate self taught full stack developer from Nepal .
 
