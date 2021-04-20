@@ -55,5 +55,6 @@ A passionate self taught full stack developer from Nepal .
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=dark" alt="Arjun's github stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-sudo)](https://github.com/arjun-sudo/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjun-sudo&theme=dark)](https://git.io/streak-stats)
