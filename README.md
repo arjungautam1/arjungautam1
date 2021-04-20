@@ -21,11 +21,7 @@ A passionate self taught full stack developer from Nepal .
 <a href="https://www.instagram.com/laserarjun/" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
-<!--
-<a href="https://dev.to/arjunsudo">
-  <img align="left" alt="Arjun | Dev" width="45px" height="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arjun Gautam's DEV Profile"  >
-</a>
--->
+
 <a href="https://www.facebook.com/people/Arjun-Gautam/100010140661075" target="_blank">
   <img align="left" alt="Arjun | facebook" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/facebook.svg" />
 </a>
@@ -55,6 +51,8 @@ A passionate self taught full stack developer from Nepal .
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=dark" alt="Arjun's github stats" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-sudo)](https://github.com/arjun-sudo/github-readme-stats)
-
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjun-sudo&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-sudo)](https://github.com/arjun-sudo/github-readme-stats)
+
