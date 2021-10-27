@@ -48,4 +48,4 @@ A passionate self taught full stack developer from Nepal .
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjungautam1&show_icons=true&include_all_commits=true&theme=dark" alt="Arjun's github stats" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjungautam1&theme=dark&border=DDDDDD)](https://git.io/streak-stats)
+**[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjungautam1&theme=dark&border=DDDDDD)](https://git.io/streak-stats)**
