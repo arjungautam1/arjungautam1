@@ -12,10 +12,8 @@ A passionate self taught full stack developer from Nepal .
 <a href="https://www.linkedin.com/in/arjungautam1/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Laserarjun876" target="_blank">
-  <img align="left" alt="Arjun | Twitter" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.webp" />
-</a>
-<a href="https://medium.com/@laserarjun" target="_blank">
+
+<a href="https://medium.com/@codewitharjun" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/medium.png" />
 </a>
 <a href="https://www.instagram.com/arjungautam5431/" target="_blank">
