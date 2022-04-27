@@ -5,7 +5,7 @@ A passionate self taught full stack developer from Nepal .
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning React, Spring Boot,JavaScript ,Typescript ,Spark Java.
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
-- 📫 How to reach me: arjungautam8877@gmail.com
+- 📫 How to reach me: codewitharjun.business@gmail.com
 
 **Connect with me :**
 
