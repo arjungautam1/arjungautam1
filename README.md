@@ -4,10 +4,14 @@ A passionate self taught full stack developer from Nepal .
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning React, Spring Boot,JavaScript ,Typescript ,Spark Java.
-- 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues) 
+- 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues)
 - 📫 How to reach me: codewitharjun.business@gmail.com
 
 **Connect with me :**
+
+<a href="https://www.yotube.com/codewitharjun" target="_blank">
+  <img align="left" alt="Arjun | Youtube" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/youtube.png" />
+</a>
 
 <a href="https://www.linkedin.com/in/arjungautam1/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
@@ -26,17 +30,14 @@ A passionate self taught full stack developer from Nepal .
 <br>
 <br>
 
-<!-- 
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: Laserarjun
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
 -->
 
-
-
-**Languages and Tools:**  
-
+**Languages and Tools:**
 
 <p align="left">
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
