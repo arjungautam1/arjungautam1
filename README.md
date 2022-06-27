@@ -1,9 +1,9 @@
 ### Hi there , I'm [Arjun Gautam !](https://arjungautam.netlify.com)👋
 
-A passionate self taught full stack developer from Nepal .
+A passionate self taught full stack developer | Youtuber from Nepal .
 
 - 🔭 I’m currently working on something cool .
-- 🌱 I’m currently learning React, Spring Boot,JavaScript ,Typescript ,Spark Java.
+- 🌱 I’m currently learning Spring Boot, React, JavaScript, Typescript.
 - 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues)
 - 📫 How to reach me: codewitharjun.business@gmail.com
 
