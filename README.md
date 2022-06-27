@@ -9,8 +9,8 @@ A passionate self taught full stack developer from Nepal .
 
 **Connect with me :**
 
-<a href="https://www.yotube.com/codewitharjun" target="_blank">
-  <img align="left" alt="Arjun | Youtube" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/youtube.png" />
+<a href="https://www.youtube.com/codewitharjun" target="_blank">
+  <img align="left" alt="Arjun | Youtube" width="41px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/youtube.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/arjungautam1/" target="_blank">
