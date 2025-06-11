@@ -20,13 +20,6 @@ A passionate self‑taught full stack developer and content creator from Nepal.
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&theme=transparent" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun-sudo&theme=transparent" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-sudo&layout=compact&theme=transparent" alt="top languages"/>
-</p>
-
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Full Stack CRUD Application Spring Boot and React!](https://youtu.be/TW5PD_TJMXo)
