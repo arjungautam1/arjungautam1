@@ -7,15 +7,6 @@ A passionate self‑taught full stack developer and content creator from Nepal.
 - 💬 Ask me about anything [here](https://github.com/arjun-sudo/arjun-sudo/issues).
 - 📫 Reach me at **codewitharjun.business@gmail.com**
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.youtube.com/codewitharjun" target="_blank"><img src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/youtube.png" width="30" alt="YouTube"/></a>
-  <a href="https://www.linkedin.com/in/arjungautam1/" target="_blank"><img src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" width="30" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@codewitharjun" target="_blank"><img src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/medium.png" width="30" alt="Medium"/></a>
-  <a href="https://www.instagram.com/__arjungautam/" target="_blank"><img src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" width="30" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/people/Arjun-Gautam/100010140661075" target="_blank"><img src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/facebook.svg" width="30" alt="Facebook"/></a>
-</p>
-
 ## 🛠️ Languages and Tools
 <p align="left">
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
